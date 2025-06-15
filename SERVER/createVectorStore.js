@@ -1,7 +1,6 @@
 import { AzureOpenAIEmbeddings } from "@langchain/openai";
 import { TextLoader } from "langchain/document_loaders/fs/text";
-import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
-import { FaissStore } from "@langchain/community/vectorstores/faiss";
+
 
 const vectorStoreSavePath = "./vectorstore"; // waar je vectordatabase komt te staan
 
