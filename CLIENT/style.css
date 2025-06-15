@@ -1,0 +1,157 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 3em 1em;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #3a3a2e;
+
+    /* Crèmekleurige achtergrond */
+    background: linear-gradient(135deg, #fdf6e3, #f7f1d1);
+}
+
+.container {
+    max-width: 600px;
+    width: 100%;
+    background: rgba(250, 248, 236, 0.85); /* lichte creme/taupe tint */
+    padding: 2.5em 3em;
+    border-radius: 18px;
+    box-shadow: 0 8px 28px rgba(100, 90, 70, 0.12);
+    border: 1.8px solid #b4a978;
+    backdrop-filter: blur(8px);
+    position: relative;
+    overflow: hidden;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    color: #4a4a36;
+}
+
+.container::before {
+    content: "";
+    position: absolute;
+    top: -12%;
+    left: -12%;
+    width: 124%;
+    height: 124%;
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/1024px-World_map_-_low_resolution.svg.png') no-repeat center/contain;
+    opacity: 0.3;
+    pointer-events: none;
+    filter: none;
+    mix-blend-mode: lighten;
+}
+
+form {
+    display: flex;
+    gap: 1em;
+    margin-bottom: 2em;
+}
+
+input {
+    flex: 1;
+    padding: 0.85em 1.2em;
+    font-size: 1.1em;
+    border-radius: 10px;
+    border: 1.8px solid #b4a978;
+    background-color: #f8f6eb;
+    color: #5a5a43;
+    box-shadow: inset 0 0 6px rgba(180, 169, 120, 0.25);
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+input::placeholder {
+    color: #aea97c;
+    font-style: italic;
+}
+
+input:focus {
+    outline: none;
+    border-color: #91884a;
+    background-color: #f0eddc;
+    box-shadow: 0 0 10px #b4a978aa;
+}
+
+button {
+    padding: 0.85em 2em;
+    font-size: 1.1em;
+    background: linear-gradient(145deg, #b4a978, #91884a);
+    color: #3a3000;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 5px 14px rgba(145, 136, 74, 0.55);
+    font-weight: 700;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+}
+
+button:hover {
+    background: linear-gradient(145deg, #91884a, #b4a978);
+    box-shadow: 0 7px 20px rgba(145, 136, 74, 0.8);
+}
+
+#response {
+    white-space: pre-wrap;
+    background: rgba(245, 243, 230, 0.8);
+    padding: 1.3em 1.7em;
+    border-radius: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.05em;
+    box-shadow: 0 0 10px rgba(180, 169, 120, 0.4);
+    color: #5c5b3d;
+    min-height: 90px;
+    letter-spacing: 0.03em;
+}
+
+header {
+    margin-bottom: 1.8em;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-weight: 800;
+    font-size: 2.6em;
+    color: #4a4a36;
+    margin: 0 0 0.2em 0;
+    letter-spacing: 0.05em;
+    text-shadow: 0 1px 1px rgba(180, 169, 120, 0.4);
+}
+
+.subtitle {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.1em;
+    color: #7a785b;
+    margin: 0;
+    letter-spacing: 0.04em;
+}
+
+.log-button {
+    margin-top: 2em;
+    padding: 0.4em 1em;
+    font-size: 0.9em;
+    background: #e6e2cb;
+    color: #5c5b3d;
+    border: 1px solid #b4a978;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: none;
+    font-weight: 500;
+    text-transform: none;
+    letter-spacing: 0.02em;
+    transition: background 0.3s ease, color 0.3s ease;
+}
+
+.log-button:hover {
+    background: #dcd8b8;
+    color: #3a3a2e;
+}
+
+
+

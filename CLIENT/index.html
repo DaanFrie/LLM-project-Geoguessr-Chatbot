@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GeoGuessr Chatbot</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>GeoGuessr Chatbot</h1>
+        <p class="subtitle">Your personal Geoguessr assistant!</p>
+    </header>
+
+    <form id="chatForm">
+        <input type="text" id="chatfield" placeholder="Ask for hints about Geoguessr..." required />
+        <button type="submit">Send</button>
+    </form>
+
+    <div id="response"></div>
+
+    <!-- Subtiele log knop onderaan -->
+    <button id="logHistoryBtn" type="button" class="log-button">Log geschiedenis</button>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "name": "llm-project",
+  "version": "1.0.0",
+  "description": "Een project dat LangChain, Express en FAISS gebruikt",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "langchain",
+    "faiss",
+    "llm",
+    "express"
+  ],
+  "author": "Jouw Naam",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.46",
+    "@langchain/core": "^0.3.58",
+    "@langchain/openai": "^0.5.13",
+    "@langchain/textsplitters": "^0.1.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "faiss-node": "^0.5.1",
+    "langchain": "^0.3.28"
+  }
+}

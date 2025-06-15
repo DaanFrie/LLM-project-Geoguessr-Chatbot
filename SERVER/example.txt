@@ -1,0 +1,510 @@
+### Afghanistan
+- Driving side: Right
+- Climate and Vegetation: Woestijn en bergen (Hindoe Kush), droog klimaat
+- Roads: Vaak onverharde wegen, weinig asfalt
+- Road signs: Vaak in Farsi/Pashto, Arabisch schrift
+- Electricity poles: Simpele houten of metalen palen
+
+### Albania
+- Driving side: Right
+- Climate and Vegetation: Bergachtig met Mediterrane kust, gematigd mediterraan klimaat
+- Roads: Vaak smalle bergwegen, soms slechte kwaliteit
+- Road signs: Europees stijl met Albanees taalgebruik
+- Electricity poles: Veelal simpele metalen palen, soms verouderd
+
+### Algeria
+- Driving side: Right
+- Climate and Vegetation: Grote Sahara woestijn en Middellandse Zeekust
+- Roads: Veel onverharde woestijnwegen, soms asfalt langs kust
+- Road signs: Arabisch en Frans, vaak rood-witte borden
+- Electricity poles: Vaak metalen palen, soms gele nummerborden
+
+### Andorra
+- Driving side: Right
+- Climate and Vegetation: Alpenachtig, koude winters, groene bergen
+- Roads: Smalle bergwegen, goed onderhouden
+- Road signs: Europees stijl, in het Catalaans
+- Electricity poles: Overwegend metalen palen, soms ondergronds
+
+### Angola
+- Driving side: Right
+- Climate and Vegetation: Tropisch savanneklimaat, groene gebieden
+- Roads: Vaak onverharde en stoffige wegen, slechte kwaliteit buiten steden
+- Road signs: Europees stijl, in het Portugees
+- Electricity poles: Eenvoudige houten of metalen palen
+
+### Argentina
+- Driving side: Right
+- Climate and Vegetation: Variërend van Patagonische woestijn tot regenwoud
+- Roads: Goed onderhouden snelwegen in steden, landelijke gravelwegen
+- Road signs: Spaans, Europese stijl
+- Electricity poles: Meestal metalen palen, soms kabels boven straatniveau
+
+### Australia
+- Driving side: Left
+- Climate and Vegetation: Variërend van woestijn tot tropische regenwouden
+- Roads: Goed onderhouden, brede wegen en snelwegen
+- Road signs: Engels, geel-diamond waarschuwingsborden
+- Electricity poles: Metalen palen met isolatoren
+
+### Austria
+- Driving side: Right
+- Climate and Vegetation: Alpenklimaat, bossen en bergen
+- Roads: Goed onderhouden, veel tunnels en bruggen
+- Road signs: Europees stijl, Duits taalgebruik
+- Electricity poles: Metalen palen, vaak ondergronds in steden
+
+### Bangladesh
+- Driving side: Left
+- Climate and Vegetation: Tropisch, moesson, veel rijstvelden
+- Roads: Vaak druk en smal, soms onverhard buiten steden
+- Road signs: Engels en Bengali
+- Electricity poles: Houten en metalen palen, soms kabels laag
+
+### Belgium
+- Driving side: Right
+- Climate and Vegetation: Gematigd, groene vlaktes en heuvels
+- Roads: Goed onderhouden, uitgebreid snelwegennet
+- Road signs: Nederlands, Frans, Duits
+- Electricity poles: Meestal ondergronds in steden, anders metalen palen
+
+### Brazil
+- Driving side: Right
+- Climate and Vegetation: Tropisch regenwoud, savanne en kustgebieden
+- Roads: Variërend, grote steden goede wegen, landelijke gebieden minder
+- Road signs: Portugees, vaak reflecterende borden
+- Electricity poles: Veel houten palen, soms kleurrijk geverfd
+
+### Canada
+- Driving side: Right
+- Climate and Vegetation: Variërend van toendra tot bos en bergen
+- Roads: Goed onderhouden snelwegen en lokale wegen
+- Road signs: Engels en Frans, Noord-Amerikaanse stijl
+- Electricity poles: Houten palen met hoogspanningskabels
+
+### Chile
+- Driving side: Right
+- Climate and Vegetation: Woestijn, bergen en kustgebieden
+- Roads: Asfaltwegen langs kust en steden, onverhard binnenland
+- Road signs: Spaans, Europese stijl
+- Electricity poles: Metalen en houten palen
+
+### China
+- Driving side: Right
+- Climate and Vegetation: Variërend van woestijn tot subtropisch
+- Roads: Uitgebreid snelwegennet, variabele kwaliteit buiten steden
+- Road signs: Chinees en Engels, veel symbolen
+- Electricity poles: Metalen hoogspanningsmasten
+
+### Colombia
+- Driving side: Right
+- Climate and Vegetation: Tropisch regenwoud, Andes bergen
+- Roads: Vaak smal en bochtig, goede asfaltwegen in steden
+- Road signs: Spaans, Europese stijl
+- Electricity poles: Houten en metalen palen
+
+### Croatia
+- Driving side: Right
+- Climate and Vegetation: Mediterraan klimaat, heuvels en kust
+- Roads: Goed onderhouden, toeristisch drukke wegen
+- Road signs: Kroatisch, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### Czech Republic
+- Driving side: Right
+- Climate and Vegetation: Gematigd, heuvelachtig
+- Roads: Goed onderhouden snelwegen en lokale wegen
+- Road signs: Tsjechisch, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### Denmark
+- Driving side: Right
+- Climate and Vegetation: Gematigd, vlak en kustlijn
+- Roads: Goed onderhouden, veel fietspaden
+- Road signs: Deens, Europees stijl
+- Electricity poles: Vaak ondergronds in steden
+
+### Egypt
+- Driving side: Right
+- Climate and Vegetation: Woestijn, Nijlvallei en delta
+- Roads: Asfaltwegen, soms druk en chaotisch verkeer
+- Road signs: Arabisch en Engels
+- Electricity poles: Houten en metalen palen
+
+### Estonia
+- Driving side: Right
+- Climate and Vegetation: Gematigd, bossen en meren
+- Roads: Goed onderhouden, minder druk
+- Road signs: Ests, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### Ethiopia
+- Driving side: Right
+- Climate and Vegetation: Hoogland, savanne en woestijn
+- Roads: Vaak onverhard, vooral buiten steden
+- Road signs: Engels en Amhaars
+- Electricity poles: Houten palen
+
+### Finland
+- Driving side: Right
+- Climate and Vegetation: Koud, bossen en meren
+- Roads: Goed onderhouden, vaak sneeuwvrij in winter
+- Road signs: Fins en Zweeds
+- Electricity poles: Vaak ondergronds, anders metalen palen
+
+### France
+- Driving side: Right
+- Climate and Vegetation: Variërend, mediterraan tot gematigd
+- Roads: Uitgebreid snelwegennet, tolwegen
+- Road signs: Frans, Europees stijl
+- Electricity poles: Meestal ondergronds in stedelijke gebieden
+
+### Germany
+- Driving side: Right
+- Climate and Vegetation: Gematigd, bossen en landbouwgebieden
+- Roads: Autobahn, uitstekend onderhouden
+- Road signs: Duits, Europees stijl
+- Electricity poles: Meestal ondergronds, anders metalen palen
+
+### Greece
+- Driving side: Right
+- Climate and Vegetation: Mediterraan, heuvels en eilanden
+- Roads: Goed onderhouden, soms smalle wegen op eilanden
+- Road signs: Grieks en Engels
+- Electricity poles: Metalen en houten palen
+
+### Hungary
+- Driving side: Right
+- Climate and Vegetation: Gematigd, vlak en heuvelachtig
+- Roads: Goed onderhouden snelwegen en lokale wegen
+- Road signs: Hongaars, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### Iceland
+- Driving side: Right
+- Climate and Vegetation: Koud, vulkanisch landschap
+- Roads: Goede wegen, soms gravel in binnenland
+- Road signs: IJslands, Europees stijl
+- Electricity poles: Vaak metalen palen
+
+### India
+- Driving side: Left
+- Climate and Vegetation: Variërend, tropisch en gematigd
+- Roads: Vaak druk, mengeling van asfalt en onverhard
+- Road signs: Engels en lokale talen
+- Electricity poles: Houten en metalen palen, vaak veel bedrading
+
+### Indonesia
+- Driving side: Left
+- Climate and Vegetation: Tropisch regenwoud en eilanden
+- Roads: Vaak smal en druk, deels onverhard
+- Road signs: Indonesisch, soms Engels
+- Electricity poles: Houten en metalen palen
+
+### Iran
+- Driving side: Right
+- Climate and Vegetation: Woestijn en bergen
+- Roads: Goed onderhouden snelwegen en landelijke wegen
+- Road signs: Farsi, Arabisch schrift
+- Electricity poles: Metalen palen
+
+### Iraq
+- Driving side: Right
+- Climate and Vegetation: Woestijn en rivieren
+- Roads: Variërend, vaak schade door conflicten
+- Road signs: Arabisch
+- Electricity poles: Houten en metalen palen
+
+### Ireland
+- Driving side: Left
+- Climate and Vegetation: Gematigd, groene heuvels
+- Roads: Smalle landelijke wegen, goede snelwegen rond steden
+- Road signs: Engels en Iers
+- Electricity poles: Metalen palen
+
+### Israel
+- Driving side: Right
+- Climate and Vegetation: Woestijn en mediterraan
+- Roads: Goed onderhouden snelwegen en wegen
+- Road signs: Hebreeuws, Arabisch, Engels
+- Electricity poles: Metalen palen
+
+### Italy
+- Driving side: Right
+- Climate and Vegetation: Mediterraan, bergen en kust
+- Roads: Uitgebreid snelwegennet, tolwegen
+- Road signs: Italiaans, Europees stijl
+- Electricity poles: Vaak ondergronds, anders metalen palen
+
+### Japan
+- Driving side: Left
+- Climate and Vegetation: Gematigd, bergen en kust
+- Roads: Uitstekend onderhouden, smal in steden
+- Road signs: Japans en Engels
+- Electricity poles: Vaak houten palen met veel bedrading
+
+### Kenya
+- Driving side: Left
+- Climate and Vegetation: Savanne en tropisch
+- Roads: Gemengd, van asfalt tot onverhard
+- Road signs: Engels en Swahili
+- Electricity poles: Houten en metalen palen
+
+### Latvia
+- Driving side: Right
+- Climate and Vegetation: Gematigd, bossen en meren
+- Roads: Goed onderhouden, minder druk
+- Road signs: Lets, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### Lebanon
+- Driving side: Right
+- Climate and Vegetation: Mediterraan, bergen
+- Roads: Goed onderhouden, soms smal
+- Road signs: Arabisch en Frans
+- Electricity poles: Houten en metalen palen
+
+### Lithuania
+- Driving side: Right
+- Climate and Vegetation: Gematigd, vlak
+- Roads: Goed onderhouden
+- Road signs: Litouws, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### Luxembourg
+- Driving side: Right
+- Climate and Vegetation: Gematigd, bossen en rivieren
+- Roads: Goed onderhouden
+- Road signs: Frans, Duits en Luxemburgs
+- Electricity poles: Vaak ondergronds
+
+### Madagascar
+- Driving side: Right
+- Climate and Vegetation: Tropisch, regenwoud en savanne
+- Roads: Vaak onverhard, slechte kwaliteit buiten steden
+- Road signs: Frans en Malagassisch
+- Electricity poles: Houten palen
+
+### Malaysia
+- Driving side: Left
+- Climate and Vegetation: Tropisch regenwoud
+- Roads: Goed onderhouden, brede snelwegen
+- Road signs: Maleis en Engels
+- Electricity poles: Metalen palen
+
+### Malta
+- Driving side: Left
+- Climate and Vegetation: Mediterraan, kleine eilanden
+- Roads: Goed onderhouden, smal
+- Road signs: Engels en Maltees
+- Electricity poles: Vaak ondergronds
+
+### Mexico
+- Driving side: Right
+- Climate and Vegetation: Variërend, woestijn tot tropisch
+- Roads: Goed onderhouden snelwegen, soms slechte wegen buiten steden
+- Road signs: Spaans, Noord-Amerikaanse stijl
+- Electricity poles: Houten en metalen palen
+
+### Mongolia
+- Driving side: Right
+- Climate and Vegetation: Woestijn en steppe
+- Roads: Vaak onverhard, weinig asfalt
+- Road signs: Mongools en Cyrillisch
+- Electricity poles: Houten palen
+
+### Morocco
+- Driving side: Right
+- Climate and Vegetation: Woestijn en mediterraan
+- Roads: Goed onderhouden snelwegen en landelijke wegen
+- Road signs: Arabisch en Frans
+- Electricity poles: Metalen palen
+
+### Netherlands
+- Driving side: Right
+- Climate and Vegetation: Gematigd, vlak
+- Roads: Uitstekend onderhouden, veel fietspaden
+- Road signs: Nederlands, Europees stijl
+- Electricity poles: Vaak ondergronds
+
+### New Zealand
+- Driving side: Left
+- Climate and Vegetation: Gematigd, bergen en kust
+- Roads: Goed onderhouden, smal en bochtig
+- Road signs: Engels, Europees stijl
+- Electricity poles: Metalen palen
+
+### Nigeria
+- Driving side: Right
+- Climate and Vegetation: Tropisch, savanne en regenwoud
+- Roads: Vaak slechte kwaliteit, veel onverhard
+- Road signs: Engels
+- Electricity poles: Houten en metalen palen
+
+### Norway
+- Driving side: Right
+- Climate and Vegetation: Koud, bergen en fjorden
+- Roads: Goed onderhouden, tunnels en bruggen
+- Road signs: Noors, Europees stijl
+- Electricity poles: Vaak ondergronds
+
+### Pakistan
+- Driving side: Left
+- Climate and Vegetation: Variërend van woestijn tot bergen
+- Roads: Variërend, veel onverhard buiten steden
+- Road signs: Urdu en Engels
+- Electricity poles: Houten en metalen palen
+
+### Peru
+- Driving side: Right
+- Climate and Vegetation: Andes bergen, regenwoud
+- Roads: Vaak smal en onverhard, goede wegen in steden
+- Road signs: Spaans, Europees stijl
+- Electricity poles: Houten en metalen palen
+
+### Philippines
+- Driving side: Right
+- Climate and Vegetation: Tropisch, eilanden en bergen
+- Roads: Vaak druk, deels onverhard
+- Road signs: Engels en Filipijns
+- Electricity poles: Houten en metalen palen
+
+### Poland
+- Driving side: Right
+- Climate and Vegetation: Gematigd, vlak en heuvelachtig
+- Roads: Goed onderhouden snelwegen en lokale wegen
+- Road signs: Pools, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### Portugal
+- Driving side: Right
+- Climate and Vegetation: Mediterraan, kust en bergen
+- Roads: Goed onderhouden, tolwegen
+- Road signs: Portugees, Europees stijl
+- Electricity poles: Meestal ondergronds
+
+### Romania
+- Driving side: Right
+- Climate and Vegetation: Gematigd, bergen en vlaktes
+- Roads: Goed onderhouden snelwegen en lokale wegen
+- Road signs: Roemeens, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### Russia
+- Driving side: Right
+- Climate and Vegetation: Variërend van toendra tot bossen
+- Roads: Variabel, goede snelwegen in steden, slechte wegen elders
+- Road signs: Russisch, Cyrillisch
+- Electricity poles: Metalen hoogspanningsmasten
+
+### Saudi Arabia
+- Driving side: Right
+- Climate and Vegetation: Woestijn
+- Roads: Goed onderhouden snelwegen
+- Road signs: Arabisch en Engels
+- Electricity poles: Metalen palen
+
+### Serbia
+- Driving side: Right
+- Climate and Vegetation: Gematigd, bergen en vlaktes
+- Roads: Goed onderhouden snelwegen en lokale wegen
+- Road signs: Servisch, Cyrillisch en Latijn
+- Electricity poles: Meestal metalen palen
+
+### Singapore
+- Driving side: Left
+- Climate and Vegetation: Tropisch, stedelijk
+- Roads: Uitstekend onderhouden
+- Road signs: Engels, Maleis, Tamil, Chinees
+- Electricity poles: Vaak ondergronds
+
+### Slovakia
+- Driving side: Right
+- Climate and Vegetation: Gematigd, bergen en vlaktes
+- Roads: Goed onderhouden
+- Road signs: Slowaaks, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### Slovenia
+- Driving side: Right
+- Climate and Vegetation: Gematigd, bergen
+- Roads: Goed onderhouden
+- Road signs: Sloveens, Europees stijl
+- Electricity poles: Meestal metalen palen
+
+### South Africa
+- Driving side: Left
+- Climate and Vegetation: Variërend, savanne tot kust
+- Roads: Goed onderhouden, soms onverhard in landelijke gebieden
+- Road signs: Engels, Afrikaans en andere talen
+- Electricity poles: Houten en metalen palen
+
+### South Korea
+- Driving side: Right
+- Climate and Vegetation: Gematigd, bergen
+- Roads: Uitstekend onderhouden
+- Road signs: Koreaans en Engels
+- Electricity poles: Metalen palen
+
+### Spain
+- Driving side: Right
+- Climate and Vegetation: Mediterraan, bergen en kust
+- Roads: Uitgebreid snelwegennet, tolwegen
+- Road signs: Spaans, Europees stijl
+- Electricity poles: Meestal ondergronds
+
+### Sweden
+- Driving side: Right
+- Climate and Vegetation: Koud, bossen en meren
+- Roads: Goed onderhouden
+- Road signs: Zweeds, Europees stijl
+- Electricity poles: Vaak ondergronds
+
+### Switzerland
+- Driving side: Right
+- Climate and Vegetation: Alpen, bossen
+- Roads: Uitstekend onderhouden, tunnels en bruggen
+- Road signs: Duits, Frans, Italiaans, Reto-Romaans
+- Electricity poles: Vaak ondergronds
+
+### Thailand
+- Driving side: Left
+- Climate and Vegetation: Tropisch, regenwoud
+- Roads: Goed onderhouden, druk in steden
+- Road signs: Thais en Engels
+- Electricity poles: Houten en metalen palen
+
+### Turkey
+- Driving side: Right
+- Climate and Vegetation: Mediterraan en continentaal
+- Roads: Goed onderhouden snelwegen en lokale wegen
+- Road signs: Turks, Europees stijl
+- Electricity poles: Metalen palen
+
+### Ukraine
+- Driving side: Right
+- Climate and Vegetation: Gematigd, vlaktes
+- Roads: Variabel, soms slechte wegen
+- Road signs: Oekraïens
+- Electricity poles: Houten en metalen palen
+
+### United Kingdom
+- Driving side: Left
+- Climate and Vegetation: Gematigd, heuvels en vlaktes
+- Roads: Uitstekend onderhouden
+- Road signs: Engels
+- Electricity poles: Vaak ondergronds
+
+### United States
+- Driving side: Right
+- Climate and Vegetation: Variërend van woestijn tot bossen en bergen
+- Roads: Uitgebreid snelwegennet, interstate highways
+- Road signs: Engels, Amerikaanse stijl
+- Electricity poles: Houten palen met hoogspanningskabels
+
+### Vietnam
+- Driving side: Right
+- Climate and Vegetation: Tropisch, rijstvelden en bergen
+- Roads: Vaak druk en smal
+- Road signs: Vietnamees
+- Electricity poles: Houten en metalen palen
